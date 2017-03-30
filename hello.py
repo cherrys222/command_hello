@@ -1,4 +1,7 @@
+// For command line git tutorial
+// Local repository modification
+
 print("Hello world!!")
-print("HoHo HiHi~!!")
-print("hahahah!!")
-print("hohoho!!")
+print("Tell your world")
+print("Tell his world")
+print("Tell her world")
